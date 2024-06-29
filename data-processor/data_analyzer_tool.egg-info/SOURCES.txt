@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+data_analyzer_tool.egg-info/PKG-INFO
+data_analyzer_tool.egg-info/SOURCES.txt
+data_analyzer_tool.egg-info/dependency_links.txt
+data_analyzer_tool.egg-info/entry_points.txt
+data_analyzer_tool.egg-info/requires.txt
+data_analyzer_tool.egg-info/top_level.txt
+src/__init__.py
+src/__main__.py
+src/gui.py
+src/processor.py
+src/utils.py
+tests/__init__.py
+tests/test_processor.py

@@ -1,0 +1,2 @@
+[console_scripts]
+data-analyzer = src.gui:run_gui
