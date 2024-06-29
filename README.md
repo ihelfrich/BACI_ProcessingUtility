@@ -35,23 +35,33 @@ The BACI Data Analyzer Tool is a powerful and user-friendly application designed
 
 1. Clone the repository:
 git clone https://github.com/ihelfrich/baci-data-analyzer.git
+```bash
 cd baci-data-analyzer
+```
 
 2. Create a virtual environment (optional but recommended):
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
+```
 
 3. Install the required dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 4. Install the package in editable mode:
+```bash
 pip install -e .
+```
 
 ## Usage
 
 To run the BACI Data Analyzer Tool:
+```bash
 data-analyzer
-Copy
+```
+
 This will launch the graphical user interface.
 
 ## File Formats
